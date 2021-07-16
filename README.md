@@ -14,3 +14,6 @@ Entregáveis:
 -Cadastre seu e-mail para receber promoções 
 
 -Dados no localstorage
+
+
+Próximo passo do projeto será colocar responsividade ...
