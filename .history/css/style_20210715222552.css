@@ -109,12 +109,12 @@ header nav a:hover {
 
 .container-cadastro {
     width:100%;
-    height: 40vh;
-    align-items: center;
-    display: flex;
-    margin: 150px;
-    padding-left:320px;
-   
+    height: 100vh;
+    justify-content: center;
+}
+
+.container-cadastro .content {
+    padding: 20px;
 }
 
 

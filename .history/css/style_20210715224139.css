@@ -113,8 +113,8 @@ header nav a:hover {
     align-items: center;
     display: flex;
     margin: 150px;
-    padding-left:320px;
-   
+    padding-right: 30px;
+    justify-content: center;
 }
 
 
