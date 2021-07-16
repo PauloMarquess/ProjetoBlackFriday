@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin:0;
+    list-style: none;
+    text-decoration: none;
+
+}
+html{
+    scroll-behavior: smooth;
+}
+
+.menu ul li {
+    display: inline-block;
+    width: 200px;
+    height: 30px;
+    padding: 20px;
+    
+
+}

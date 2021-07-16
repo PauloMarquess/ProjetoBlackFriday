@@ -1,0 +1,9 @@
+* {
+    padding: 0;
+    margin:0;
+
+}
+.menu ul li{
+    display:inline-block;
+    justify-content: space-between;
+}

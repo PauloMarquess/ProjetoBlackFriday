@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin:0;
+    list-style: none;
+    text-decoration: none;
+
+}
+html{
+    scroll-behavior: smooth;
+}
+
+.menu ul li {
+    display: inline-block;
+    width: 200px;
+    height: 30px;
+    padding: 20px;
+    
+
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.background-section {
+    background-image: url(../img/abstract-1238657_1920.jpg)
+}
